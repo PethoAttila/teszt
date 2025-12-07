@@ -5,10 +5,9 @@
 
 [link](https://github.com/PethoAttila/teszt/edit/main/README.md)
 
-'inline code'
-
-'''python
+`inline code`
+```python
 code block
 for multiple
 lines
-'''
+```
