@@ -13,6 +13,10 @@ Itt nyomni kell egy y-t.
 - install CPython now? [y/N]
 Itt is egy y-t kell nyomnunk
 
+- Készen vagyunk! A wiev online help nem kell, nyomjunk egy n-t
+
+
+
 `inline code`
 ```
 code block
