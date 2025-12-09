@@ -1,7 +1,7 @@
 # Amőba játék
 
-## Rövid leírás: ez egy klasszikus 3x3-as amőba játék
-Python-ban íródott
+### Rövid leírás:
+ez egy klasszikus 3x3-as amőba játék, mely Python-ban íródott.
 
 `inline code`
 ```
