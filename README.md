@@ -1,4 +1,4 @@
-#### Amőba játék
+# Amőba játék
 
 `inline code`
 ```
