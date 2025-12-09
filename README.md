@@ -1,9 +1,4 @@
-# teszt
-## teszt 2
-### teszt 3
-#### teszt 4
-
-[link](https://github.com/PethoAttila/teszt/edit/main/README.md)
+# Amőba játék
 
 `inline code`
 ```python
